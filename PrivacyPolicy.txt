@@ -1,0 +1,20 @@
+AGUILAL MUSTAPHA : PRIVACY POLICY
+
+
+Welcom to the AGUILAL MUSTAPHA 
+As Android users, We take privacy very seriously. We know how irritating it is when apps or games collect your data without your knowledge.
+
+Our apps and games are not open source.and all the code is developed by us, we may use some open source software during the development process.
+We are located in morocco as an android app developer.
+the internet data we use regarding android devices of our users are only for the ads, we dont even use it for bug finding or general maintenance purposes.
+we do not send or collect any of Our users data.
+We do require few permission in order for our apps to work as supposed to.
+for (GYM Fitness Pro): we de need the folowing permissions:
+  CAMERA
+  STORAGE
+  INTERNET
+Thats all about permissions.
+  
+We Will Update this privacy policy if we added those features to our products,
+
+We are Very happy to know that you are reading this,please if you have any consern or quations, email us at "aguilal6189@gmail.com"
